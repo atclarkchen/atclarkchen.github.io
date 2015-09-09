@@ -4,7 +4,7 @@
  * Open Sans
 ================================================================================ */
 @font-face {
-    font-family: 'opensans-regular';
+    font-family: '--regular';
     src: url('fonts/opensans/OpenSans-Regular-webfont.eot');
     src: url('fonts/opensans/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
          url('fonts/opensans/OpenSans-Regular-webfont.woff') format('woff'),
