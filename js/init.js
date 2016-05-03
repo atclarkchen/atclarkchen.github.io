@@ -32,6 +32,12 @@
 	    });
 	});
 
+/*----------------------------------------------------*/
+/* Parallax Attempt
+------------------------------------------------------ */
+
+// $('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
+$('header#home').parallax({imageSrc: '/images/stay.jpg'});
 
 /*----------------------------------------------------*/
 /* Highlight the current section in the navigation bar
